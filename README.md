@@ -1,5 +1,5 @@
 # CodelessGame
-A simple maze game.
+A simple maze game without the use of code, for to know unity editor
 
 video:
 
